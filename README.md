@@ -81,7 +81,7 @@ The objective of this project is to enhance a professional developer’s ability
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 
-**Example**: !View Use Case Diagram](alx-booking-uc.png)
+**Example**: ![View Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria
 **Objective**: Establishing clear criteria for feature completion.
