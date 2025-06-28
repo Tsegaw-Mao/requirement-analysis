@@ -46,3 +46,25 @@ The objective of this project is to enhance a professional developer’s ability
 - `Review and Approval`: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 - `Acceptance Criteria`: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - `Traceability`: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+## Types of Requirements
+### **Functional Requirements**
+**Definition**: Describe what the system should do.
+**Examples**: User authentication, property search, booking system, user registration.
+
+#### Key Functional Requirements of booking management project from the case study:
+
+- **Search + Booking Properties**: This is the service that will be given to customers. In this customers can search and book a hotel.
+- **Hotel Management Service**: This is the service that will be given to hotel managers/owners. In this managers can manage their hotel's related information. Here managers have a separate portal to access the data and update it.
+- **View Booking Service**: Here all current and old booking details are shown to the user. Both managers and customers use this service.
+
+### **Non-functional Requirements**
+**Definition**: Describe how the system should perform.
+**Examples**: Performance, security, scalability, usability, reliability.
+
+#### Key Non-functional Requirements of booking management project from the case study:
+
+- **Security**: Ensure data encryption, secure login, and protect against common vulnerabilities.
+- **Scalability**: The system should be able to scale horizontally to handle increased traffic.
+- **Usability**: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+- **Reliability**: The system should have an uptime of 99.9% and recover quickly from any failures.
